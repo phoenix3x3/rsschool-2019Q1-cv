@@ -12,12 +12,17 @@
 4. **Skills** 
    * HTML 
    * CSS 
-   * Basic  JS 
+   * JS 
    * Basic C++ 
    * GitHub
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
+   
+5. **Примеры кода:**
+   The last easy mini-project that i did to quickly recall knowledges: https://github.com/phoenix3x3/ExampleOfProject
+
+6. **Опыт:** 
+   Finished courses HTML CSS JS in mob app SoloLearn, CodeAcademy HTML CSS, watched  youtube courses from WebDevBlog, Sorax, CodeGrid    etc. and practice,  participeted in Vectree(Russian online courses), visiting some meetup about HTML CSS JS
+   
+7. **Образование:** The second-year student the Belarusian State University on faculty Radiophysics and Computer Technology 
+
+8. **Уровень английского:** At the moment A2, Now i go on courses StreamLine to B1 level
+
