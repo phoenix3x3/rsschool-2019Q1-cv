@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900|Maven+Pro');
+
+* {
+    padding: 0;
+    margin: 0;
+    cursor: default;
+}
+a {
+    color: #dcdeed;
+    text-decoration: none;
+
+}
+ul {
+    list-style: none;
+}
+body {
+    width: 1020px;
+    margin: 0 auto;
+    font-family: 'Maven Pro', sans-serif;
+    color: #f7f7e3;
+}
+.header-container,
+.main-container,
+.footer-container {
+    background-color: #878585;
+    padding-bottom: 30px;
+}
+h3 {
+    font-family: "Lato", sans-serif;
+    display: inline-block;
+}
+/* HEADER */
+.welcomingInformation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.myPhoto {
+    width: 250px;
+    height: 250px;
+    margin: 30px 0;
+    border-radius: 100%;
+    box-shadow: 0 0 15px 2px #000;
+}
+.name {
+    display: relative;
+}
+.name:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 186px;
+    height: 3px;
+    background-color: #000;
+    border-radius: 5px;
+    opacity: 0.5;
+}
+/* MAIN */
+.main-container section {
+    padding: 30px 60px 0 60px;
+}
+.skills {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.skills h3:after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 45px;
+    height: 3px;
+    background-color: #000;
+    border-radius: 5px;
+    opacity: 0.5;
+}
+.skillsList {
+    margin-top: 10px;
+}
+.skillsList li {
+    margin-left: 50px;   
+    list-style: circle; 
+}
+.codeExamples a {
+    color: #3f404c;
+    cursor: pointer;
+}
+/* FOOTER */
+.contact {
+    text-align: center;
+}
+.contactList {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 30px;
+}
